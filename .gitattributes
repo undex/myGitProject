@@ -1,3 +1,4 @@
 *.txt ident
 *.txt ident
 date*.txt filter=dater
+LAST_COMMIT export-subst
