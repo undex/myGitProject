@@ -1,0 +1,3 @@
+*.txt ident
+*.txt ident
+date*.txt filter=dater
